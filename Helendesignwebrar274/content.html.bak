@@ -1,0 +1,135 @@
+<HTML>
+<HEAD>
+<TITLE>Site Title</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<STYLE TYPE="TEXT/CSS">
+<!--
+
+A { text-decoration: none }
+
+
+A {color:#FF3300; font-family: Helvetica, Arial; font-size: 12px; text-decoration: none;}
+A:hover {color:#ffffff; font-family: Helvetica, Arial; font-size: 12px; text-decoration: none;}
+
+td {font-family: Helvetica, Arial; font-size: 11px;}
+.linkcell { padding-left: 10px; font-family: Helvetica, Arial; font-size: 10px;}
+hr {  color: #000000}
+
+//.unnamed1 {  font-family: Arial, Helvetica, sans-serif; font-size: small}
+-->
+
+
+</STYLE>
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<script language="JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+</script>
+</HEAD>
+<BODY BGCOLOR=#CC6600 leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('images/b1_r.gif','images/b2_r.gif','images/b3_r.gif','images/b4_r.gif','images/b5_r.gif','images/b6_r.gif')">
+<div id="Layer1" style="position:absolute; left:34px; top:206px; width:110px; height:15; z-index:1"><a href="link1.html">Button 
+  Link 1</a></div>
+<div id="Layer2" style="position:absolute; left:34px; top:237px; width:109px; height:15; z-index:2"><a href="link2.html">Button 
+  Link 2</a></div>
+<div id="Layer3" style="position:absolute; left:34px; top:270px; width:111px; height:15; z-index:3"><a href="link3.html">Button 
+  Link 3</a></div>
+<div id="Layer4" style="position:absolute; left:34px; top:302px; width:109px; height:15; z-index:4"><a href="link4.html">Button 
+  Link 4</a></div>
+<div id="Layer5" style="position:absolute; left:37px; top:333px; width:112px; height:15; z-index:5"><a href="link5.html">Button 
+  Link 5</a></div>
+<div id="Layer6" style="position:absolute; left:36px; top:368px; width:112px; height:15; z-index:6"><a href="link6.html">Button 
+  Link 6</a></div>
+<TABLE WIDTH=100% BORDER=0 CELLPADDING=0 CELLSPACING=0>
+  <TR> 
+    <TD width="15%" ROWSPAN=2> <IMG SRC="images/corner.gif" WIDTH=152 HEIGHT=196></TD>
+    <TD ROWSPAN=2 width="1%" bgcolor="#FF9900"> <IMG SRC="images/curve1.gif" WIDTH=74 HEIGHT=196></TD>
+    <TD width="81%" background="images/top.gif" valign="top"> <br>
+      <font color="#FFFFFF" size="6" face="Arial, Helvetica, sans-serif">Your 
+      Web Site Title.com</font></TD>
+    <TD width="3%"> <IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=108></TD>
+  </TR>
+  <TR> 
+    <TD ROWSPAN=8 width="81%" bgcolor="#FFFFFF" valign="top">
+      <table width="95%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>
+            <p><font color="#CC6600" size="4">Sub Heading Here</font></p>
+            <p>Content Area</p>
+          </td>
+        </tr>
+      </table>
+    </TD>
+    <TD width="3%"> <IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=88></TD>
+  </TR>
+  <TR> 
+    <TD width="15%" bgcolor="#FF9900"> <a href="javascript:;" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image1','','images/b1_r.gif',1)"><IMG SRC="images/b1.gif" WIDTH=152 HEIGHT=30 border="0" name="Image1"></a></TD>
+    <TD ROWSPAN=6 width="1%" bgcolor="#FFFFFF" background="images/curve2.gif" valign="bottom"> 
+      <IMG SRC="images/curve2.gif" WIDTH=74 HEIGHT=187></TD>
+    <TD width="3%"> <IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=30></TD>
+  </TR>
+  <TR> 
+    <TD width="15%" bgcolor="#FF9900"> <a href="javascript:;" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image2','','images/b2_r.gif',1)"><IMG SRC="images/b2.gif" WIDTH=152 HEIGHT=33 border="0" name="Image2"></a></TD>
+    <TD width="3%"> <IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=33></TD>
+  </TR>
+  <TR> 
+    <TD width="15%"> <a href="javascript:;" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image3','','images/b3_r.gif',1)"><IMG SRC="images/b3.gif" WIDTH=152 HEIGHT=32 border="0" name="Image3"></a></TD>
+    <TD width="3%"> <IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=32></TD>
+  </TR>
+  <TR> 
+    <TD width="15%" bgcolor="#FF9900"> <a href="javascript:;" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image4','','images/b4_r.gif',1)"><IMG SRC="images/b4.gif" WIDTH=152 HEIGHT=30 border="0" name="Image4"></a></TD>
+    <TD width="3%"> <IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=30></TD>
+  </TR>
+  <TR> 
+    <TD width="15%" bgcolor="#FF9900"> <IMG SRC="images/content_10.gif" WIDTH=4 HEIGHT=32><a href="javascript:;" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','images/b5_r.gif',1)"><img src="images/b5.gif" width=148 height=32 border="0" name="Image5"></a> 
+    </TD>
+    <TD width="3%"> <IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=32></TD>
+  </TR>
+  <TR> 
+    <TD width="15%" bgcolor="#FF9900" height="2"> <a href="javascript:;" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','images/b6_r.gif',1)"><IMG SRC="images/b6.gif" WIDTH=152 HEIGHT=30 border="0" name="Image6"></a></TD>
+    <TD width="3%" height="2"> <IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=30></TD>
+  </TR>
+  <TR> 
+    <TD width="15%"> <IMG SRC="images/square.gif" WIDTH=152 HEIGHT=146></TD>
+    <TD width="1%" background="images/curve3.gif" valign="top"> <IMG SRC="images/curve3.gif" WIDTH=74 HEIGHT=146></TD>
+    <TD width="3%"> <IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=146></TD>
+  </TR>
+  <TR> 
+    <TD width="15%"> <IMG SRC="images/orange1.gif" WIDTH=152 HEIGHT=11></TD>
+    <TD width="1%"> <IMG SRC="images/orange2.gif" WIDTH=74 HEIGHT=11></TD>
+    <TD width="81%">&nbsp; </TD>
+    <TD width="3%"> <IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=11></TD>
+  </TR>
+</TABLE>
+</BODY>
+</HTML>
