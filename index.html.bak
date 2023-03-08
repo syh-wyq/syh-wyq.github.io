@@ -16,7 +16,7 @@
 </head>
     <body>
 <audio autoplay="autopaly" loop="loop" id="audios">
-    <source src="nomai.mp3" type="audio/mp3" />
+    <source src="nomai 1.mp3" type="audio/mp3" />
 </audio>
 
          <div id="main">
@@ -24,7 +24,7 @@
              <div id="wrap">
                 <div id="text">
                    <div id="code"> <font color="#FF0000"> <span class="say">从此，不再是孤岛</span><br>
-         </span> </font>
+          </span> </font>
  <img src = 2.gif /> 
 				          <br />
                           <br />
